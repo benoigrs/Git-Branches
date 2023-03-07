@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bnqatptrgc
 
+=======
+btnrzo,y
+>>>>>>> quentin
